@@ -1,6 +1,6 @@
 configure git account for github repository....
 
 
-*--  git config --global user.name "mddayambarkat"
-*--  git config --global user.email "barkatdayam1999@gmail.com"
+*--  git config --global user.name "msd"
+*--  git config --global user.email "kd23@gmail.com"
 * -- git clone(url)
